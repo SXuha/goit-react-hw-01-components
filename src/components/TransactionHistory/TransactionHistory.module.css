@@ -1,0 +1,23 @@
+.transactionHistory {
+  /* background-color: brown; */
+  border: 2px solid rgb(168, 175, 175);
+  border-collapse: collapse;
+}
+.table {
+  border-right: 1px solid rgb(168, 175, 175);
+  border-bottom: 1px solid rgb(168, 175, 175);
+}
+.capture {
+  background-color: aqua;
+}
+.tbody {
+  border: 1px solid rgb(168, 175, 175);
+  /* padding: 0;
+  margin: 0; */
+}
+/* th {
+  padding: 0;
+} */
+.tr:nth-last-child(even) {
+  background-color: rgba(71, 207, 100, 0.61);
+}

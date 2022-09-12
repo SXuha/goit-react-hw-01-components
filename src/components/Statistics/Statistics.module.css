@@ -1,0 +1,22 @@
+.statistics {
+  text-align: center;
+  margin-right: 20px;
+  box-shadow: 0px 0px 5px 5px #d4d9f4;
+  /* position: absolute; */
+}
+.title {
+  padding: 20px;
+  font-size: 16px;
+}
+.statList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 5px 10px 5px;
+  font-size: 14px;
+}
